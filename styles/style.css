@@ -1,0 +1,125 @@
+body {
+    font-family: 'sans-serif';
+    background-color: rgb(14, 13, 13);
+    background-image: url("../images/Illustrations/Bathome1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.homme {
+    color: white;
+    position: absolute;
+    top: 30px;
+    right: 60px;
+    font-size: 15px;
+    text-shadow: ;
+
+}
+
+p {
+    text-align: center;
+}
+
+.logo1 {
+    position: absolute;
+    right: 25px;
+    width: 15px;
+}
+
+.incone {
+    position: absolute;
+    right: 4px;
+    top: 130px;
+
+}
+
+.titre {}
+
+.t1 {
+
+    border: 0px solid red;
+    padding: 7px;
+    text-transform: uppercase;
+    background-color: azure;
+    opacity: 0.4;
+    color: black;
+    margin: 0px auto;
+
+
+
+}
+
+.logohomme {
+    position: absolute;
+    width: 60px;
+    top: 30px;
+    left: 60px;
+}
+
+.texthomme {
+    text-align: center;
+}
+
+.flèche {
+    position: relative;
+    width: 40px;
+    margin: 0px auto;
+}
+
+.logo {
+    width: 60px;
+}
+
+.para {
+    font-size: xx-small;
+    border: 1px solid black;
+    width: 315px;
+    height: 120px;
+    background-color: aquamarine;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    float: left;
+    height: 135px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+.diapo {
+    display: inline;
+}
+
+.bat {
+    position: absolute;
+    right: 3px;
+    width: 200px;
+}
+
+.formulaire {
+    border: 1px solid rgb(87, 76, 76);
+    padding: 10px;
+    padding-left: 10%;
+    font-size: small;
+}
+
+.f1 {
+    float: left;
+    width: 100px;
+}
+
+.f {
+    float: left;
+
+}
+
+.para1 {
+    width: 70%;
+    margin: 0px auto;
+}

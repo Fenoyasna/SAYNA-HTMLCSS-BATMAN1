@@ -21,6 +21,14 @@ body {
 
 }
 
+section {
+    text-align: center;
+
+}
+
+
+
+
 p {
     text-align: center;
 }
@@ -39,8 +47,10 @@ p {
 }
 
 .titre {
-    margin: 12px auto;
+    text-align: center;
+
 }
+
 
 .t1 {
 
@@ -50,8 +60,8 @@ p {
     background-color: azure;
     opacity: 0.4;
     color: black;
-    margin: 0px auto;
-    display: inline;
+    display: inline-block;
+    margin: 20px;
 
 
 
@@ -69,7 +79,7 @@ p {
 }
 
 .flèche {
-    position: absolute;
+
     width: 40px;
     margin: 0px auto;
 }

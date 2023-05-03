@@ -98,7 +98,6 @@ p {
     background-color: aquamarine;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    float: left;
     height: 135px;
 }
 
@@ -126,15 +125,7 @@ h2 {
     margin: 0px auto;
 }
 
-.f1 {
-    float: left;
-    width: 100px;
-}
 
-.f {
-    float: left;
-
-}
 
 .para1 {
     width: 70%;
@@ -143,4 +134,11 @@ h2 {
 
 .fin1 {
     float: left;
+}
+
+.diapo {
+    background-color: azure;
+    display: inline-block;
+    height: 100%;
+    margin: 0px auto;
 }

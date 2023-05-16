@@ -1,23 +1,25 @@
 body {
     font-family: 'Rajdhani', sans empattement;
-    background-color: rgb(14, 13, 13);
+    background-color: black;
     background-image: url("../images/Illustrations/Bathome1.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: scroll;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 150px;
+    margin: 130px;
     border: 4px double rgb(156, 145, 145, 0.5);
 }
 section {
     text-align: center;
+    
 }
     
 h2 {
         text-transform: uppercase;
-        font-size: medium;
+        font-size: 30px;;
 }
+
 .homme {
     color: white;
     position: absolute;
@@ -36,10 +38,12 @@ h2 {
 }
 
 p {
-    text-align: center;
-    font-size:large;
+    font-size:x-large;
 }
-
+.inconne{
+    display: block;
+    background-color: #c4c4c4;
+}
 .t1 {
     border: 0px solid red;
     padding: 7px;
@@ -51,9 +55,7 @@ p {
     margin: 20px;
     text-decoration: none;
 }
-.incone{
-    
-}
+
 
 .flèche {
     width: 40px;
@@ -69,12 +71,12 @@ p {
 .img {
     width: 300px;
     height: auto;
-    margin: 10px;
-    display: inline-block;
+    margin: 50px;
 }
 .imge{
    text-align: right;
 }
+
 .multi{
     background-color: #c4c4c4;
     width: 1000px;
@@ -86,7 +88,7 @@ span{
 }
 .image1{
     display: inline-block;
-    position: relative;
+    text-align: center;
 }
 .flèch{
     left: 0px;
@@ -136,12 +138,15 @@ span{
     border: 0px;
     border-bottom: 2px solid white;
 }
-
-
-
-
-
-
+.batmanciné{
+margin-left: 20px;
+}
+.nemesis{
+    margin-left: 20px;
+}
+.allie{
+    margin-left: 20px;
+}
 
 .para {
     background-color: aquamarine;
@@ -155,20 +160,25 @@ span{
 }
 .rem{
     background-color: rgb(0, 0, 0, 0);
-    width: 40%;
+    width: 45%;
     margin: 0px auto;
+    text-align: center;
+    clear: left;
 }
 .exla1{
-  float: left;
-  width: 50px;
+ float: left;
+  width: 30px;
 }
-.text{
-    clear: left;
-   
+.texte , .multe {
+    margin-left: 50px;
+    padding-right: 100px;
+    text-align: left;   
 }
+
 .exla2{
-    float: right;
-  width: 50px;
+float: right;
+  width: 30px;
+
 
 }
 .fin{

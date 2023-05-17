@@ -10,14 +10,16 @@ body {
     margin: 130px;
     border: 4px double rgb(156, 145, 145, 0.5);
 }
+
 section {
     text-align: center;
-    
+
 }
-    
+
 h2 {
-        text-transform: uppercase;
-        font-size: 30px;;
+    text-transform: uppercase;
+    font-size: 30px;
+    ;
 }
 
 .homme {
@@ -27,23 +29,29 @@ h2 {
     right: 130px;
     font-size: 30px;
     text-shadow: 0px 0px 3px;
-    font-weight: 350; 
+    font-weight: 350;
 }
 
 .logohomme {
     position: absolute;
     width: 150px;
     top: 100px;
-   left:130px;
+    left: 130px;
 }
 
 p {
-    font-size:x-large;
+    font-size: x-large;
 }
-.inconne{
+
+.tete {
+    display: flex;
+}
+
+.inconne {
     display: block;
     background-color: #c4c4c4;
 }
+
 .t1 {
     border: 0px solid red;
     padding: 7px;
@@ -73,24 +81,28 @@ p {
     height: auto;
     margin: 50px;
 }
-.imge{
-   text-align: right;
+
+.imge {
+    text-align: right;
 }
 
-.multi{
+.multi {
     background-color: #c4c4c4;
     width: 1000px;
     margin: 0px auto;
     text-align: center;
 }
-span{
-    color:#ffff00;
+
+span {
+    color: #ffff00;
 }
-.image1{
+
+.image1 {
     display: inline-block;
     text-align: center;
 }
-.flèch{
+
+.flèch {
     left: 0px;
     top: 0px;
     position: relative;
@@ -102,9 +114,9 @@ span{
 }
 
 
-.choixx{
+.choixx {
     width: 50%;
-    
+
 }
 
 .bat {
@@ -118,7 +130,7 @@ span{
     padding: 10px;
     padding-left: 2%;
     font-size: small;
-    width:90%;
+    width: 90%;
     background-color: rgb(63, 55, 55);
     margin: 0px auto;
 }
@@ -138,13 +150,16 @@ span{
     border: 0px;
     border-bottom: 2px solid white;
 }
-.batmanciné{
-margin-left: 20px;
-}
-.nemesis{
+
+.batmanciné {
     margin-left: 20px;
 }
-.allie{
+
+.nemesis {
+    margin-left: 20px;
+}
+
+.allie {
     margin-left: 20px;
 }
 
@@ -155,39 +170,46 @@ margin-left: 20px;
     width: 300px;
     height: auto;
 }
-.sary{
+
+.sary {
     text-align: center;
 }
-.rem{
+
+.rem {
     background-color: rgb(0, 0, 0, 0);
     width: 45%;
     margin: 0px auto;
     text-align: center;
     clear: left;
 }
-.exla1{
- float: left;
-  width: 30px;
+
+.exla1 {
+    float: left;
+    width: 30px;
 }
-.texte , .multe {
+
+.texte,
+.multe {
     margin-left: 50px;
     padding-right: 100px;
-    text-align: left;   
+    text-align: left;
 }
 
-.exla2{
-float: right;
-  width: 30px;
+.exla2 {
+    float: right;
+    width: 30px;
 
 
 }
-.fin{
+
+.fin {
     position: relative;
     text-align: center;
 }
-.choixx{
+
+.choixx {
     background-color: #c4c4c4;
     border: 0px;
     border-bottom: 2px solid white;
-    
+
 }

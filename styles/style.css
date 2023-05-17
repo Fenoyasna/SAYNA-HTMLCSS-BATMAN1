@@ -45,11 +45,25 @@ p {
 
 .tete {
     display: flex;
+
+    align-items: flex-start;
+
+}
+
+.mult {
+    display: flex;
 }
 
 .inconne {
-    display: block;
     background-color: #c4c4c4;
+    border: 2px solid red;
+    align-self: center;
+
+}
+
+.inconne1 {
+    background-color: #c4c4c4;
+    border: 2px solid red;
 }
 
 .t1 {
@@ -98,7 +112,6 @@ span {
 }
 
 .image1 {
-    display: inline-block;
     text-align: center;
 }
 
